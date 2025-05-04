@@ -79,3 +79,7 @@ Try it yourself! Experiment with different prompts to explore Gemini's capabilit
 Have feedback, questions, or want to contribute? Feel free to reach out or fork the project!
 
 <a href="https://www.linkedin.com/in/mansi-more-0943/"> ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+
+<sub>© 2025 Google LLC. All rights reserved. Google and the Google logo are trademarks of Google LLC.  
+All other company and product names may be trademarks of the respective companies with which they are associated.</sub>
+
