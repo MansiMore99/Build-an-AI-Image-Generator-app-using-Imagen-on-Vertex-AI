@@ -8,7 +8,7 @@ Generate an image using a text prompt on Vertex AI...
 
 ### Project Overview:
 
-Generative AI on **Vertex AI **(also known as genAI or gen AI) gives you access to Google's large generative AI models so you can test, tune, and deploy them for use in your AI-powered applications. In this lab, you will:
+Generative AI on **Vertex AI**(also known as genAI or gen AI) gives you access to Google's large generative AI models so you can test, tune, and deploy them for use in your AI-powered applications. In this lab, you will:
 
 ### 🚀 Features
 - **Connect to Vertex AI (Google Cloud AI platform):** Learn how to establish a connection to Google's AI services using the Vertex AI SDK.
@@ -60,9 +60,7 @@ Open image.jpeg using your file explorer or any image viewer.
 ```
 ai-image-generator/
 ├── GenerateImage.py         # Main script
-├── image.jpeg               # Output file
-├── requirements.txt         # Optional: Python deps
-└── samples/                 # Example generated images
+└── image.jpeg               # Output file
 ```
 
 Try it yourself! Experiment with different prompts to explore Gemini's capabilities.
@@ -77,5 +75,3 @@ Try it yourself! Experiment with different prompts to explore Gemini's capabilit
 Have feedback, questions, or want to contribute? Feel free to reach out or fork the project!
 
 <a href="https://www.linkedin.com/in/mansi-more-0943/"> ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
-
-
