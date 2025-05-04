@@ -1,5 +1,10 @@
-## Build-an-AI-Image-Generator-app-using-Imagen-on-Vertex-AI
-Generate an image using a text prompt on Vertex AI
+### 🧠✨ AI Image Generator with Vertex AI (Imagen)
+Generate an image using a text prompt on Vertex AI...
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![Vertex AI](https://img.shields.io/badge/Powered%20by-Vertex%20AI-FF6F00.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 
  ![ChatGPT Image May 3, 2025, 09_22_41 PM](https://github.com/user-attachments/assets/ef41b931-535a-4a8b-ae02-2bdead5700cd)
 
