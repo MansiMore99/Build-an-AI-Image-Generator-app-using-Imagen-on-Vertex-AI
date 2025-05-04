@@ -33,6 +33,6 @@ generate_image(
     project_id='"project-id"',
     location='"REGION"',
     output_file='image.jpeg',
-    prompt='Create an image of a cricket ground in the heart of Los Angeles',
+    prompt='Create an image of a robot playing basketball at chase center, San Francisco!!',
     )
 
